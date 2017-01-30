@@ -4,3 +4,6 @@ version = "0.1.0"
 authors = ["Stanislau Hlebik <stash@fb.com>"]
 
 [dependencies]
+rocket = "0.1.6"
+rocket_codegen = "0.1.6"
+rand="0.3.0"
